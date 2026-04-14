@@ -43,4 +43,4 @@ Due to security concerns, the **source code is not included in this repository**
 
 For inquiries, custom bot development, or specific use-case integrations, feel free to reach out:
 
-📬 **Telegram:** [@bettyjk_0915](https://t.me/bettyjk_0915)  
+📬 **Telegram:** [@alphaoinker](https://t.me/alphaoinker)  
